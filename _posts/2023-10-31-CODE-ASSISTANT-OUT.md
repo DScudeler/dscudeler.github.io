@@ -20,3 +20,5 @@ work.
 The server part is not provided but might be published in the future.
 
 [Repository](https://github.com/DScudeler/codeassistant)
+
+<video src="/assets/codeassistant_demo.mp4" controls="controls"></video>
