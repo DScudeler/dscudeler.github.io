@@ -18,3 +18,5 @@ I also used this project to check how
 work.
 
 The server part is not provided but might be published in the future.
+
+[Repository](https://github.com/DScudeler/codeassistant)
