@@ -13,7 +13,7 @@ The goal here was to see if it was easy to setup a local environment with reques
 I also used this project to check how
 - gRPC (I had some projects in CORBA and Java RMI)
 - VS Code extensions (made some JS in the old days, I wanted to see some typescripts)
-- LLama2
+- LLama2  
 work.
 
 The server part is not provided but might be published in the future.
