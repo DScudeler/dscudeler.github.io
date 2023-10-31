@@ -7,7 +7,7 @@ author: DS
 ---
 
 The Code Assistant Visual Studio Code extension is out.  
-Just like every other projects, this small project was mainly done in order to play with LLMs (LLama2 here) and VScode extensions.
+Just like every other projects, it was mainly done in order to play with LLMs (LLama2 here) and VScode extensions.
 
 The goal here was to see if it was easy to setup a local environment with requests to LLMs and having the answers in an interactive way.
 I also used this project to check how
